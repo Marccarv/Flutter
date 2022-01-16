@@ -14,6 +14,7 @@ This app contains the following modules:
 - Soon as he gets in park a QR Code is generated
 - QR Code is used to control the time he spends in park
 
+* This project still in development, so if you're up to help us we appreciate!
 
 Great Regards,
 
