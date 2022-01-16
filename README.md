@@ -1,21 +1,16 @@
-# Flutter
+# flutter_project1
 
-### Parking Lot Management
+A new Flutter project.
 
+## Getting Started
 
-In this project we had the change to collaborate with a fluent programmer who teach us some basic concepts about flutter and gave us some great ideas to implement in our project.
-This consists in a mobile application for both "Android" and "IOS" (since Flutter is able to compile to both operative systems) which can manage parking lots in a region.
-This app contains the following modules:
-- User is able to create an account
-- User can add his own car
-- User can book the place in a park within a limit  30 min
-- Soon as he gets in park a QR Code is generated
-- QR Code can be used to manage the time he spend in park
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
-This app is still being developed, if anyone's up to contribute and join us, or learn something about flutter we appreciate.
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-
-Best regards,
-
-Marco Carvalho
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
