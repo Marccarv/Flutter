@@ -1,4 +1,4 @@
-# Flutter
+# Flutter First Application Attemp
 
 This is our project to Flutter introduction (Framework created by Google)
 
